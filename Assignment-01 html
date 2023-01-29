@@ -1,0 +1,52 @@
+ <!-- HTML  =  Structure  -->
+<!DOCTYPE  html>
+<html>
+    <!-- For Meta information  -->
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"  content="width=device-width,  initial-scale=1.0">
+ <title>Bio  -  Gurleen Kaur  -The Legend</title>
+    </head>
+<!--  Presentation  (CSS)  -->
+<style>
+    h1 {
+        color:aqua#007BFF;
+        text-align:  center;
+        font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    p  { 
+        font-size:  1.2em;
+        line-height:  1.4em;
+        color: #333;
+        background-color:  #ccc;
+        padding:  1.4em;
+        border-radius:  1em;
+    }
+
+    img  {
+        width:  100%
+    }
+</style>
+
+<!--Interactivity (JS) -->
+<script>
+    alert(Thank you for visiting my website.);
+</script>
+    <!-- Content goes here -->
+    <body>
+    <h1>Gurleen Kaur
+        <h2>The Man, The Myth, The Legend</h2>
+
+        <p>
+            In 1978  I was born.
+        </p>
+
+        <p>
+            Worked tons of jobs.
+
+            <img width="200" src
+        </p>
+    </body>
+</html>
